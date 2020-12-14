@@ -5,6 +5,6 @@
 # Installationsanleitung
 
 * installiere python3.8+
-* `cd Code`
+* `cd .\Code`
 * `pip install -r requirements.txt`
 * `python .\MainWindow.py`
