@@ -1,4 +1,4 @@
-# Maturitaetsarbeit-KNN-Testumgebung
+# Maturitätsarbeit-KNN-Testumgebung
 
 ![Screenshot](https://github.com/ABach6a/Maturitaetsarbeit-KNN-Testumgebung/blob/main/Screenshot-GUI.png)
 
