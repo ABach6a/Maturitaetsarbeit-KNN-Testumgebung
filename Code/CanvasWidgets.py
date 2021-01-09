@@ -68,7 +68,7 @@ class AccuracyWidget(FigureCanvas):
         ax.grid(True)
         ax.set_title('Learning progress')
         ax.set_xlabel('epoch')
-        ax.set_ylabel('accuracy')
+        ax.set_ylabel('loss')
 
     def _plotRunHistoryAccuracies(self, ax):
         ax.plot(self.run_history.history['loss'], 'blue', marker='.', label='training-data loss')
